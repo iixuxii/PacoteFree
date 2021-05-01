@@ -44,4 +44,4 @@ done
 echo ""
 echo -e "        \033[0m\033[01;37m• \033[01;32mTeste finalizado \033[01;37m•\033[0m"
 sleep 2
-curl -sO https://raw.githubusercontent.com/fabricio94b/PacoteFree/main/mbsfree && chmod 777 mbsfree && ./mbsfree
+curl -sO https://raw.githubusercontent.com/iixuxii/PacoteFree/main/mbsfree && chmod 777 mbsfree && ./mbsfree
