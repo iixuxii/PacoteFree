@@ -15,10 +15,10 @@ read OPTION
 
 case $OPTION in
         (1) 
-        curl -sO https://raw.githubusercontent.com/fabricio94b/PacoteFree/main/mbsfree1 && chmod 777 mbsfree1 && ./mbsfree1
+        curl -sO https://raw.githubusercontent.com/iixuxii/PacoteFree/main/mbsfree1 && chmod 777 mbsfree1 && ./mbsfree1
         ;;
         (2) 
-        curl -sO https://raw.githubusercontent.com/fabricio94b/PacoteFree/main/mbsfree2 && chmod 777 mbsfree2 && ./mbsfree2
+        curl -sO https://raw.githubusercontent.com/iixuxii/PacoteFree/main/mbsfree2 && chmod 777 mbsfree2 && ./mbsfree2
         ;;
         (3)
         clear
